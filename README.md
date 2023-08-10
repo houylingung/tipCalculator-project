@@ -1,4 +1,4 @@
-# tipCalculator-project
+# Tip Calculator-project
 
 ## Demo video 
 
